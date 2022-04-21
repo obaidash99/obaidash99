@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @obaidash99
+- 👋 Hi, I’m Obaida Shurbaji
 - 👀 I’m interested in Front-end web development
 - 🌱 I’m currently learning Html, CSS and JavaScript
 - 📫 You can reach me on 
