@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Obaida Shurbaji
 - 👀 I’m interested in Front-end web development
-- 🌱 I’m currently learning Html, CSS and JavaScript
+- 🌱 I’m currently learning Html, CSSو JavaScript, and ReactJS 
 - 📫 You can reach me on 
   - LinkedIn: https://www.linkedin.com/in/obaida-shurbaji-a7b074171/
   - Twitter: https://twitter.com/obaida98
