@@ -1,9 +1,13 @@
-### Hi there 👋, my name is Obaida Shurbaji
+# Hi there 👋, I'm Obaida Shurbaji
 #### Front-End Web Developer (ReactJS)
-I'm passionate about creating amazing websites, using the needed technologies to make it alive. 
+I'm passionate about creating amazing websites, using the needed technologies to make it alive.
 I make my work using HTML, CSS, JavaScript, and ReactJS, which makes any website much faster and more flexible, and of course! I don't forget about responsive designs principles, which makes the website accessible and readable regardless the size of your screen.
 
-Skills:  HTML / CSS / JS / REACT / BOOTSTRAP
+## Skills:
+  - ⚛ ReactJS
+  - 🕸 HTML / CSS / JS
+  - 🅱 Bootstrap / Ⓜ MUI
+
 
 - 🔭 I’m currently working on My own Portfolio. It will be out Soon! 
 - 🌱 I’m currently learning Advanced ReactJS. 
