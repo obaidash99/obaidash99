@@ -11,7 +11,7 @@ I make my work using HTML, CSS, JavaScript, and ReactJS, which makes any website
   - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ## My Goal is to HIT 100 days **Streak!**
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=obaidash99)
+[![GitHub Streak](https://streak-stats.demolab.com?user=obaidash99&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117)](https://git.io/streak-stats)
 
 <!-- ## More:
 - 🔭 I’m currently working on My own Portfolio. It will be out Soon! 
