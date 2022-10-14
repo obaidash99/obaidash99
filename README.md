@@ -1,8 +1,9 @@
 # Hi there 👋, I'm Obaida Shurbaji
 #### Front-End Web Developer (ReactJS)
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 I'm passionate about creating amazing websites, using the needed technologies to make it alive.
 I make my work using HTML, CSS, JavaScript, and ReactJS, which makes any website much faster and more flexible, and of course! I don't forget about responsive designs principles, which makes the website accessible and readable regardless the size of your screen.
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 
 ## Skills && Tools:
   - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
