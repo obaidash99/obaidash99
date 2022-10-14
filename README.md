@@ -11,9 +11,8 @@ I make my work using HTML, CSS, JavaScript, and ReactJS, which makes any website
   - ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Sublime Text](https://img.shields.io/badge/-Sublime-4B4B4B?style=flat-square&logo=sublime-text&logoColor=FF9800)
   - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-<div align="right">
-  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=obaidash99)
-</div> 
+## My Goal is to HIT 100 days **Streak!**
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=obaidash99)
 
 ## More:
 - 🔭 I’m currently working on My own Portfolio. It will be out Soon! 
