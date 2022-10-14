@@ -11,14 +11,11 @@ I make my work using HTML, CSS, JavaScript, and ReactJS, which makes any website
   - ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Sublime Text](https://img.shields.io/badge/-Sublime-4B4B4B?style=flat-square&logo=sublime-text&logoColor=FF9800)
   - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+<div align="right">![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=obaidash99)</div> 
 
 ## More:
 - 🔭 I’m currently working on My own Portfolio. It will be out Soon! 
 - 🌱 I’m currently learning Advanced ReactJS. 
-- 📫 How to reach me: obaidashurbaji99@gmail.com     
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=obaidash99&show_icons=true) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=obaidash99)
-
-<a href="https://www.linkedin.com/in/saravananselvamohan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+- 📫 Reach me via: <a href="https://www.linkedin.com/in/saravananselvamohan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://twitter.com/__Saravanan" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://www.instagram.com/saravananselvamohan/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
