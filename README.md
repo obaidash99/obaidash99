@@ -2,7 +2,7 @@
 #### Front-End Web Developer (ReactJS)
 I'm passionate about creating amazing websites, using the needed technologies to make it alive.
 I make my work using HTML, CSS, JavaScript, and ReactJS, which makes any website much faster and more flexible, and of course! I don't forget about responsive designs principles, which makes the website accessible and readable regardless the size of your screen.
-
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 ## Skills:
   - ⚛ ReactJS
   - 🕸 HTML / CSS / JS
@@ -19,6 +19,3 @@ I make my work using HTML, CSS, JavaScript, and ReactJS, which makes any website
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=obaidash99&show_icons=true)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=obaidash99)
-
-
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
