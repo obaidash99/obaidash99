@@ -20,3 +20,5 @@ I make my work using HTML, CSS, JavaScript, and ReactJS, which makes any website
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=obaidash99&show_icons=true)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=obaidash99)
 
+
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
