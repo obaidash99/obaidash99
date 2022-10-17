@@ -10,6 +10,7 @@ I make my work using HTML, CSS, JavaScript, and ReactJS, which makes any website
   - ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react) ![image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
   - ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Sublime Text](https://img.shields.io/badge/-Sublime-4B4B4B?style=flat-square&logo=sublime-text&logoColor=FF9800)
   - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+  - ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff) ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown) ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff) ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
 ## My Goal is to HIT 100 days **Streak!**
 [![GitHub Streak](https://streak-stats.demolab.com?user=obaidash99&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117)](https://git.io/streak-stats)
