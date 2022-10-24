@@ -1,4 +1,4 @@
-# Darkness is the main reason for the SUN to Shine 🌞 🌄
+# Darkness is the main reason for the SUN to Shine 🌞🌄
 ## Hi there 👋, I'm Obaida Shurbaji
 #### Front-End Web Developer (ReactJS)
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
