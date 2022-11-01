@@ -19,7 +19,7 @@ I make my work using HTML, CSS, JavaScript, and ReactJS, which makes any website
 ## Currently Working on:
 <!-- - 🔭 My own Portfolio. It will be out Soon!  -->
 - 🌱 Learning Advanced ReactJS.
-- 
+- 🐘 Learning Back-End Development.
 
 ## 📫 How To Reach Me
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:obaidashurbaji99@gmail.com)](mailto:obaidashurbaji99@gmail.com)
