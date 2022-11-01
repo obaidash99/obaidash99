@@ -17,8 +17,9 @@ I make my work using HTML, CSS, JavaScript, and ReactJS, which makes any website
 [![GitHub Streak](https://streak-stats.demolab.com?user=obaidash99&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117)](https://git.io/streak-stats)
 
 ## Currently Working on:
-- 🔭 My own Portfolio. It will be out Soon! 
+<!-- - 🔭 My own Portfolio. It will be out Soon!  -->
 - 🌱 Learning Advanced ReactJS.
+- 
 
 ## 📫 How To Reach Me
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:obaidashurbaji99@gmail.com)](mailto:obaidashurbaji99@gmail.com)
