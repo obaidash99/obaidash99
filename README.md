@@ -17,8 +17,7 @@ I'm passionate about creating unique websites and using the needed technologies 
 
 ## Currently Working on:
 <!-- - 🔭 My own Portfolio. It will be out Soon!  -->
-- 🌱 Learning Advanced ReactJS.
-- 🐘 Learning Back-End Development.
+- 🌱 Learning and Practicing Angular.
 
 ## 📫 How To Reach Me
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:obaidashurbaji99@gmail.com)](mailto:obaidashurbaji99@gmail.com)
