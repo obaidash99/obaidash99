@@ -2,7 +2,8 @@
 ## Hi there 👋 I'm Obaida Shurbaji
 #### Front-End Web Developer
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-I'm passionate about creating unique websites and using the needed technologies to make them alive. I make my work using HTML, CSS, JavaScript, and ReactJS, which makes any website much faster and more flexible, and of course! I don't forget about responsive design principles, which make the website accessible and readable regardless of your screen size.
+A proactive frontend developer with a proven track record of delivering polished, user-centric web interfaces. Strives for pixel-perfect designs, optimizing code for speed and efficiency. Adept at collaborating with cross-functional teams to translate concepts into captivating digital experiences.
+
 
 
 ## Skills & Tools:
