@@ -1,8 +1,7 @@
-# Darkness is the main reason for the SUN to Shine 🌄
-## Hi there 👋 I'm Obaida Shurbaji
+<!-- # Darkness is the main reason for the SUN to Shine 🌄 -->
 #### Front-End Web Developer
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
-A proactive frontend developer with a proven track record of delivering polished, user-centric web interfaces. Strives for pixel-perfect designs, optimizing code for speed and efficiency. Adept at collaborating with cross-functional teams to translate concepts into captivating digital experiences.
+A proactive front-end developer with a proven track record of delivering polished, user-centric web interfaces. Strives for pixel-perfect designs, optimizing code for speed and efficiency. Adept at collaborating with cross-functional teams to translate concepts into captivating digital experiences.
 
 
 
