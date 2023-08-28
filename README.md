@@ -12,12 +12,12 @@ A proactive front-end developer with a proven track record of delivering polishe
   - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 <!--   - ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff) ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown) ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff) ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) -->
 
-## My Goal is to HIT 100 days **Streak!**
-[![GitHub Streak](https://streak-stats.demolab.com?user=obaidash99&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117)](https://git.io/streak-stats)
+<!-- ## My Goal is to HIT 100 days **Streak!** -->
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=obaidash99&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117)](https://git.io/streak-stats) -->
 
-## Currently Working on:
-<!-- - 🔭 My own Portfolio. It will be out Soon!  -->
-- 🌱 Learning and Practicing Angular.
+<!-- ## Currently Working on: 
+- 🔭 My own Portfolio. It will be out Soon! 
+- 🌱 Learning and Practicing Angular. -->
 
 ## 📫 How To Reach Me
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:obaidashurbaji99@gmail.com)](mailto:obaidashurbaji99@gmail.com)
